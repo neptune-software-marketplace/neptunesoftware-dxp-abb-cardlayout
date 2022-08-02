@@ -1,0 +1,47 @@
+{
+	"id": "0E2BEB3A-4C12-ED11-BD6E-000D3AB1D9FF",
+	"createdAt": "2022-08-02T10:16:54.393Z",
+	"createdBy": "kristin.eliassen@neptune-software.com",
+	"git": {
+		"targetServers": [],
+		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-abb-cardlayout",
+		"testServers": []
+	},
+	"name": "neptunesoftware-dxp-abb-cardlayout",
+	"description": null,
+	"ver": "22.8.2.1017",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "335EB19D-F5D2-40FF-B045-5D09E3BF33DC",
+			"ver": "22.8.2.1217",
+			"application": "neptbb_tile_layout_items",
+			"title": "WEBSHOP",
+			"description": "List Items as Tile Cards - ProCode"
+		}
+	],
+	"api": [],
+	"odataMock": [],
+	"odataSource": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"wf_definition": [],
+	"department": [],
+	"script_scheduler": [],
+	"connector": []
+}
